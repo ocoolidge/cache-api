@@ -1,0 +1,26 @@
+{
+  "name": "cache-api",
+  "version": "1.0.0",
+  "description": "npm module provides a APICache class to streamline the process of saving and/or requesting data that outdates quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocoolidge/cache-api.git"
+  },
+  "keywords": [
+    "cache",
+		"api",
+		"request",
+		"rate",
+		"limiter"
+  ],
+  "author": "Owen C",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ocoolidge/cache-api/issues"
+  },
+  "homepage": "https://github.com/ocoolidge/cache-api#readme"
+}
